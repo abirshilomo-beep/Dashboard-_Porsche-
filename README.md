@@ -1,6 +1,7 @@
 # Dashboard Porsche\n\nProjeto de dashboard em HTML/CSS/JS.
 file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html
 ### 📊 Dashboard Porsche  
-Acesse o dashboard clicando no link abaixo:
+Acesse o dashboard aqui:
 
-👉 [Dashboard Porsche](file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html)
+👉 https://seu-usuario.github.io/seu-repositorio/Dashboard_Porsche.html
+
