@@ -4,4 +4,3 @@ file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html
 Acesse o dashboard clicando no link abaixo:
 
 👉 [Dashboard Porsche](file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html)
-
