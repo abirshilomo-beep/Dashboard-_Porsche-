@@ -3,4 +3,5 @@ file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html
 ### 📊 Dashboard Porsche  
 Acesse o dashboard clicando no link abaixo:
 
-👉 [Abrir Dashboard Porsche](./docs/Dashboard_Porsche.html)
+👉 [Dashboard Porsche](file:///C:/Users/abirs/Downloads/Dashboard_Porsche.html)
+
